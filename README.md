@@ -30,4 +30,4 @@ Design and deploy a segmented, monitored network across two locations with secur
 
 #### 1. Create an asset tracking system for the network
 
-#### 2. Create a network diagram
+#### 2. Produce a detailed network diagram that accurately reflects the current network architecture and device layout.
