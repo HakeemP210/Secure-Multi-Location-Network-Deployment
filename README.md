@@ -5,10 +5,10 @@
 Design and deploy a segmented, monitored network across two locations with secure remote connectivity.
 
 ### Enivornment
-- Devices:
+- Devices:41
 - Locations: 2
-- Network Type:
-- Operating Systems:
+- Network Type: Small Business
+- Operating Systems: Windows 10/11
   
 ### Skills Learned
 
@@ -31,3 +31,4 @@ Design and deploy a segmented, monitored network across two locations with secur
 #### 1. Create an asset tracking system for the network
 
 #### 2. Produce a detailed network diagram that accurately reflects the current network architecture and device layout.
+![image alt](https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment/blob/35dfde66aa755f89673bb23062977e3f8fee4680/Current%20State%20Network%20Diagram%20(As-Is).png)
