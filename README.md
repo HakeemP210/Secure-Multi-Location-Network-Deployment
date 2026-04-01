@@ -29,4 +29,4 @@ Design and deploy a segmented, monitored network across two locations with secur
 3. Produce a detailed network diagram that illustrates the future-state architecture of the network.
 ![image alt](https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment/blob/main/Future%20State%20Network%20Diagram%20(To-Be).png?raw=true)
 
-Network Security Assessment & Design Report (Phase 1)
+[Network Security Assessment & Design Report (Phase 1)](https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment/blob/55290b378a6b9e1a190bdb2a82561c4179ec7cad/Network%20Security%20Assessment%20%26%20Design%20Report%20(Phase%201).md)
