@@ -28,3 +28,4 @@ Design and deploy a segmented, monitored network across two locations with secur
 ![image alt](https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment/blob/35dfde66aa755f89673bb23062977e3f8fee4680/Current%20State%20Network%20Diagram%20(As-Is).png)
 
 #### 3. Produce a detailed network diagram that illustrates the future-state architecture of the network.
+![image alt](https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment/blob/main/Future%20State%20Network%20Diagram%20(To-Be).png?raw=true)
