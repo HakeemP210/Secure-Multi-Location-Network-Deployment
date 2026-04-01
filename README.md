@@ -7,7 +7,7 @@ Design and deploy a segmented, monitored network across two locations with secur
 ### Enivornment
 - Devices:41
 - Locations: 2
-- Network Type: Small Business
+- Network Type: Small Business | Segmented
 - Operating Systems: Windows 10/11
   
 ### Skills Learned
