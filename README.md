@@ -12,7 +12,7 @@ Design and deploy a segmented, monitored network across two locations with secur
   
 ### Skills Learned
 
-- TBD
+- Network security architecture design for a multi-location business
   
 ### Tools Used
 
