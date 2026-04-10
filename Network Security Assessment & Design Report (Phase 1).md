@@ -8,4 +8,4 @@ A security assessment for a company's network was conducted and a detailed archi
 
 As currently constructed the company is operating on a flat-style network. The company uses "Spectrum Business" as an ISP and uses the standard spectrum routers to act as the firewall. There are no switches/VLANs iplemented into the network so all devices are currently capable of commuicating with each other. The company has a total of 41 devices connected to the network at all times, not including the devices for guests/clients. All devices are using the Windows 10 or 11 operating systems. The company also has 2 locations that are currently operating as two seperate networks.
 
-<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment/blob/35dfde66aa755f89673bb23062977e3f8fee4680/Current%20State%20Network%20Diagram%20(As-Is).png" width="400" height="400"> 
